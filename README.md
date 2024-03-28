@@ -41,9 +41,46 @@ Welcome to TensorFlow Guest AI, a captivating mobile application that leverages 
 **Future Enhancements:**
 
 * **Multi-Image Support:** We envision a future where you can submit multiple photos at once, allowing the AI to make comprehensive assessments.
-* **Real-Time Processing:** Our goal is to achieve real-time image analysis, delivering guesses instantaneously as you capture photos (timeline to be determined).
+
 * **Confidence Score:** To increase transparency, we aim to incorporate confidence scores for each guess, indicating the AI's level of certainty (timeline to be determined).
 
-**Stay Tuned!**
+3. **Install Dependencies:**
 
-We're constantly working on exciting new features and improvements. Be sure to keep an eye out for future updates that will take your AI-powered guessing game to the next level!
+   Using npm:
+   ```bash
+   cd piterest-ui-clone
+   npm install
+   ```
+
+   Using pnpm:
+   ```bash
+   cd piterest-ui-clone
+   pnpm install
+   ```
+
+   Using yarn:
+   ```bash
+   cd piterest-ui-clone
+   yarn 
+   ```
+
+## Running the App
+
+1. **Expo Development Server:**
+
+   - **Using npm:**
+     ```bash
+     npm start
+     ```
+
+   - **Using pnpm:**
+     ```bash
+     pnpm start
+     ```
+
+   - **Using yarn:**
+     ```bash
+     yarn start
+     ```
+
+---
